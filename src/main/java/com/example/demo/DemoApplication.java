@@ -9,7 +9,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		
-		System.out.println("Test jgit-flow");
+		System.out.println("Test jgit-flow hotfix 1.2.1");
 	}
 
 }
